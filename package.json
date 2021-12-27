@@ -1,0 +1,29 @@
+{
+  "name": "nodejs-simple-login-app-without-database",
+  "version": "1.0.0",
+  "description": "Simple login rest apis without using database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subodhrathaur/nodejs-simple-login-app-without-database.git"
+  },
+  "keywords": [
+    "Rest-Api",
+    "REST",
+    "node",
+    "authentication"
+  ],
+  "author": "Subodh Rathaur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subodhrathaur/nodejs-simple-login-app-without-database/issues"
+  },
+  "homepage": "https://github.com/subodhrathaur/nodejs-simple-login-app-without-database#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2"
+  }
+}
